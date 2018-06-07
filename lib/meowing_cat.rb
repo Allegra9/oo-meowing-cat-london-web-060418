@@ -2,4 +2,4 @@ class Cat
   
 end 
 
-Cat.meow 
+puts Cat.meow 
